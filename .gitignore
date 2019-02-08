@@ -1,0 +1,7 @@
+__pycache__
+include/
+Lib/
+Scripts/
+tcl/
+pip-selfcheck.json/
+output/

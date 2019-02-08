@@ -1,0 +1,2 @@
+DEFAULT_OUTPUT_FOLDER = './output'
+DEFAULT_JSON_OUTPUT = 'output.json'
